@@ -1,0 +1,14 @@
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\bin\Debug\net8.0\Lab03InterfacesAbstractClasses.exe
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\bin\Debug\net8.0\Lab03InterfacesAbstractClasses.deps.json
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\bin\Debug\net8.0\Lab03InterfacesAbstractClasses.runtimeconfig.json
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\bin\Debug\net8.0\Lab03InterfacesAbstractClasses.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\bin\Debug\net8.0\Lab03InterfacesAbstractClasses.pdb
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\Lab03InterfacesAbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\Lab03InterfacesAbstractClasses.AssemblyInfoInputs.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\Lab03InterfacesAbstractClasses.AssemblyInfo.cs
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\Lab03InterfacesAbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\Lab03InterfacesAbstractClasses.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\refint\Lab03InterfacesAbstractClasses.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\Lab03InterfacesAbstractClasses.pdb
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\Lab03InterfacesAbstractClasses.genruntimeconfig.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab03InterfacesAbstractClasses\obj\Debug\net8.0\ref\Lab03InterfacesAbstractClasses.dll
